@@ -25,4 +25,4 @@ The goal is to study the impact of **technology scaling** on **energy efficiency
 - **Frequency Response:** Higher cutoff frequency and bandwidth at 22nm.  
 - **Layout Insights:** Importance of DRC compliance and biasing networks in robust analog design.  
 
-## 📂 Repository Structure
+
